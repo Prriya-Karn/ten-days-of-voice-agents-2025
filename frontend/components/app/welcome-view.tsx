@@ -1,3 +1,4 @@
+"use client";
 import { Button } from '@/components/livekit/button';
 
 function WelcomeImage() {
